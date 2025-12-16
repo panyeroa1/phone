@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Beatrice - Property Manager",
+  "description": "A voice-first dialer app connecting you to Beatrice, an AI property management assistant with a human touch.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
